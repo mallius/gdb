@@ -1,0 +1,7 @@
+为停止点设置命令
+ 
+ break main if i = 10
+ commands
+ printf "i: %d\n", i
+ continue
+ end
